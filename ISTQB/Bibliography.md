@@ -1,3 +1,8 @@
+---
+dg-publish: true
+dg-home: true
+---
+
 # Testing 
 ## ISTQB Certifications
 ### Agile Tester
