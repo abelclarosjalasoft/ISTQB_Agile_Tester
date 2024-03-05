@@ -10,7 +10,12 @@ A task is finished when a set of acceptance criteria have been satisfied.
 
 #tester-role 
 A tester should identify missing details or non-functional requirements.
+{ #3055ec}
+
+
 The tester may use the INVEST technique:
+{ #da5491}
+
 - Independent
 - Negotiable
 - Valuable
