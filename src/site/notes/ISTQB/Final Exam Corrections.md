@@ -68,8 +68,9 @@
 -  Question 12
 ![Final Exam Corrections-20240305185102888.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305185102888.webp)
 	Correct answer: A, E
-	Answer D is incorrect because Automation helps with regression, but it will not totally eliminate or detect any defect.
+	Answer D is incorrect because Automation helps with regression, but it will not totally eliminate or detect any new defect.
 	Answer A is true because one of the main objectives of Automation is to help the team maintain or increase its velocity.
+	![Final Exam Corrections-20240305193936748.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305193936748.webp)
 	Answer E is correct because automation will ensure that any new change in the correct build will not break the product, so at least it is ready to be tested manually.
 ---
 -  Question 13
@@ -78,3 +79,4 @@
 	Answer A is correct because Feature verification testing will test the build comparing it to the acceptance criteria, it can be done by testers or developers.
 	Answer C is correct because on Agile projects, feature validation can be executed by any team member (developers, testers, stakeholders) working collaboratively.
 	Answer D is incorrect because Acceptance Testing is done usually by the customer, not by team members.
+	![Final Exam Corrections-20240305194103765.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305194103765.webp)
