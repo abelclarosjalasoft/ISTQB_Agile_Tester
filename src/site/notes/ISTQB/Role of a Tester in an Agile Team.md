@@ -13,6 +13,8 @@ Activities:
 - Coaching other team members in relevant aspects of testing
 - Ensuring the appropriate testing tasks are scheduled during release and iteration planning 
 - Actively collaborating with developers and business stakeholders to clarify requirements, especially in terms of testability, consistency, and completeness
+{ #e5d3fe}
+
 - Participating proactively in team retrospectives, suggesting and implementing improvements
 
 [[ISTQB/Quality is responsibility of the whole team\|Quality is responsibility of the whole team]] and every team member plays a role in performing test-related tasks.
