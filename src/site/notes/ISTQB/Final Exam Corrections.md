@@ -5,13 +5,13 @@
 - Question 1
 	![Final Exam Corrections-20240305165140355.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305165140355.webp)
 	Correct answer: D
-	Working on the user story acceptance means that the independent testers will have to involve themselves with the developer team members or even the the managers, which can affect the independence of testing
+	Working on the User Story Acceptance testing means that the independent testers will have to involve themselves with the developer team members or even with the managers, which can affect the independence of testing. That makes the option D the correct answer.
 ---
 - Question 2
 	  ![Final Exam Corrections-20240305170929035.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305170929035.webp)
 	Correct answer: D
-	The result of BDD are the test classes used by the developer fo develop test clases. 
-	In the option D it is stated TDD, hence it makes it the FALSE statement
+	The result of BDD are the test classes used by the developer to develop test clases. 
+	In the option D it is stated TDD, hence it makes the statement FALSE 
 ---
 - Question 3
   	  ![Final Exam Corrections-20240305171544584.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305171544584.webp)
@@ -26,18 +26,20 @@
  - Question 5
  ![Final Exam Corrections-20240305175409440.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305175409440.webp)
 	Correct answer: D
-	The test cases are not technology facing, and the test cases are not acceptance level test.
+	The test cases are NOT technology facing, and the test cases are not acceptance level test.
 	The test cases are in the System level and Performance testing( Q2 and Q4) [[Excalidraw/Testing Quadrants.excalidraw\|Testing Quadrants.excalidraw]]
 ---
 - Question 6
  ![Final Exam Corrections-20240305181138646.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305181138646.webp)
 	Correct answer: A
-	[[Exploratory testing\|Exploratory testing]] by nature will not stop defects from appearing, log the defects will have no impact in the exploratory testing result. Instead, it is expected to have test results and documented test executed.
+	Exploratory testing by nature will not stop defects from appearing, log the defects will have no impact in the exploratory testing result. 
+	Instead, it is expected to have test results and documented test executed.
 ---
 - Question 7
 ![Final Exam Corrections-20240305182255941.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305182255941.webp)
 	Correct answer: A
 	To stabilize an iteration is to solve defects that come from previous iterations. This is done in order to avoid increasing technical debts.
+	![Final Exam Corrections-20240305192827079.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305192827079.webp)
 ---
 - Question 8
 ![Final Exam Corrections-20240305183044787.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305183044787.webp)
@@ -48,23 +50,26 @@
 -  Question 9
 ![Final Exam Corrections-20240305183839742.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305183839742.webp)
 	Correct answer: D
-	The best approach to execute an Exploratory Testing is to execute it by questioning yourself "How the software can fail or act in an unexpected way?"
+	A good approach to execute an Exploratory Testing is to execute it by questioning yourself "How the software can fail or act in an unexpected way?"
+	![Final Exam Corrections-20240305193255589.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305193255589.webp)
 ---
 -  Question 10
 ![Final Exam Corrections-20240305184153238.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305184153238.webp)
 	Correct answer: A, D
-	Answer B is incorrect because Static testing is executed before any manual testing. Exploratory testing is a technique that is essentially manual, that is what it makes Answer A correct; as well as Answer D, another manual technique.
+	Answer B is incorrect because Static testing is executed before any manual testing. 
+	Exploratory testing is a technique that is essentially manual, that makes Answer A correct; as well as Answer D, another manual technique.
 ---
 -  Question 11
 ![Final Exam Corrections-20240305184719228.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305184719228.webp)
 	Correct answer: B
 	A wiki is a tool that helps the team to communicate and share information across the team members. A test charter, in the other hand, is used to help the tester in the execution of exploratory tests.
+	![Final Exam Corrections-20240305193606482.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305193606482.webp)
 ---
 -  Question 12
 ![Final Exam Corrections-20240305185102888.webp](/img/user/ISTQB/attachments/Final%20Exam%20Corrections-20240305185102888.webp)
 	Correct answer: A, E
-	Answer A is true because one of the main objectives of Automation is to help the team maintain or increase its velocity.
 	Answer D is incorrect because Automation helps with regression, but it will not totally eliminate or detect any defect.
+	Answer A is true because one of the main objectives of Automation is to help the team maintain or increase its velocity.
 	Answer E is correct because automation will ensure that any new change in the correct build will not break the product, so at least it is ready to be tested manually.
 ---
 -  Question 13
