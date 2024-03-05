@@ -5,7 +5,6 @@
 
 # Testing 
 
-HOLA A TODOS
 ## ISTQB Certifications
 ### Agile Tester
 
